@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rukonuzzaman Shiem
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Ract JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
